@@ -10,3 +10,5 @@ Bemo 是一個非常簡單的Discord機器人，目前的功能是進行一些�
 大多數的管理功能是我在使用Discord時覺得很實用的，才寫進來，所以目前的功能還非常少。
 
 得益於目前的架構，新增指令只需要在./cmds/cmd.py中新增function，對於任何指令的開發都非常方便。
+
+若要使用，僅須將./datas/setting.json 中之的 "Your TOKEN" 改為你的Bot token，即可正常運作。
